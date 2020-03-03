@@ -1,0 +1,62 @@
+#mainnav .logo{
+  float: none;
+  text-align: center;
+}
+
+#mainnav ul{
+  float: none;
+}
+
+#mainnav ul li{
+  float: none;
+}
+
+#mainnav ul li a{
+  padding: 5px;
+  border-bottom: 1px solid #444;
+}
+
+#home-info .img{
+  display: none;
+}
+
+#home-info .content{
+  width: 100%;
+  float: none;
+}
+
+.box{
+  float: none;
+  width: 100%;
+}
+
+#about .info-right,
+#about .info-left{
+  float: none;
+  width: 100%;
+}
+
+#about .info-right img{
+  border-radius: 5px;
+  width: 100%;
+}
+ .l-heading{
+   text-align: center;
+ }
+
+ #about .info-right{
+   margin-top: 30px;
+ }
+
+ #contact-info .box{
+   border-bottom: 1px solid #444;
+ }
+/* Showcase */
+
+#showcase{
+  height: 100%;
+}
+
+#showcase .container-content{
+  padding: 40px 50px 50px 50px;
+}
